@@ -1,0 +1,12 @@
+header .navbar-brand {
+  margin-right: 30px; }
+
+.main_banner {
+  background-color: black;
+  height: 100vh;
+  background-image: url("../images/clean.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 45px; }
+
+/*# sourceMappingURL=style.css.map */
